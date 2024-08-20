@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body {
+    height: 100%;
+}
+
+body {
+    --White: #FFFFFF;
+    --Magenta: #f44a8a;
+    --Blue: #4ab5e1;
+    --Dark-blue: #030020;
+    --Gray: #1E1E1E;
+    --Black-dim: rgba(0, 0, 0, 0.5);
+
+    margin: 0;
+    font-family: Comfortaa !important;
+    // background-color:var(--Gray);
+    background: linear-gradient(-90deg, #370d1d, var(--Dark-blue))
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
