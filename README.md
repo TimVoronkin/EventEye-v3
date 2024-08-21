@@ -1,5 +1,5 @@
-This is an EventEye project I developed as a semester project at my university.
-It is a website application for sharing and organizing photos.
+This is an EventEye project I developed as a semester project for my university.
+It is a website for sharing and organizing photos.
 
 - Backend was done through **IntelliJ IDEA**, with **SpringBoot** in **Java**
 - Database is through **MySQL**.
